@@ -1,0 +1,4 @@
+{
+  prefix: "-" // you can put ur own prefix instead of -
+  token: "PASTE TOKEN HERE" // go to discord dev portal and get ur token and paste in quotations
+}
