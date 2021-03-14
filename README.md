@@ -9,4 +9,4 @@ Type 'npm init -y' in your code editor's terminal
 Open your glitch project, go to the 'package.json' file and click 'Add package'. Search up 'discord.js' and click on the first option when it pops up. BOOM, you have installed discord.js package
 
 # Downloading Packages on repl.it
-You won't need to download the package, repl.it will do it for you. If you do want to, go to the 'Shell' and type 'npm install discord.js' and you have installed discord.js package.
+You won't need to download the package, repl.it will do it for you when you run your code. If you do want to download the package yourself, go to the 'Shell' and type 'npm install discord.js' and you have installed discord.js package.
